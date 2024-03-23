@@ -1,0 +1,1 @@
+Eggplant Functional is a black-box graphical user interface test automation tool. It was developed in Boulder, Colorado, by Doug Simons, Jonathan Gillaspie, and John McIntosh. The software was developed by Redstone Software starting in 2002
